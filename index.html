@@ -38,8 +38,8 @@ div {
 <body>
 <div>
 <main class="grid">
-  <div><a href="http://live.com"><img src="Outlook.png"></a><br>Outlook</div>
-  <div><a href="http://feedly.com"><img src="Feedly.png"></a><br>Feedly</div>
+  <div><a href="http://live.com"><img src="outlook.png"></a><br>Outlook</div>
+  <div><a href="http://feedly.com"><img src="feedly.png"></a><br>Feedly</div>
   <div><a href="https://app.asana.com/0/8469877492509/list"><img src="asana.png"></a><br>Asana</div>
   <div><a href="http://instagantt.com/r"><img src="instagantt.png"></a><br>Instagantt</div>
   <div><a href="http://app.smartsheet.com"><img src="smartsheet.png"></a><br>SmartSheet</div>
